@@ -1,4 +1,10 @@
 
+# Plateforme Collaborative - Backend
+
+Resultante du test technique pour Ikomobi, le sujet était la plateforme collaborative permettant aux utilisateurs de créer et gérer des groupes. 
+
+Les utilisateurs peuvent s'inscrire, se connecter, créer des groupes, inviter des membres ( avec un système d'acceptation et de refus ) et gérer les membres de leurs propres groupes.
+
 ## Technologies utilisées
 
 
