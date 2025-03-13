@@ -26,8 +26,8 @@ Cloner le dépot sur votre machine locale:
 
 
 ```bash
-    git clone https://github.com/RoxBibopp/plateforme-collaborative-back.git
-    cd plateforme-collaborative-back
+    git clone https://github.com/RoxBibopp/ikomobi-collab-back.git
+    cd ikomobi-collab-back
 ```
 
 ### 2. Installer les dépendances
